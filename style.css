@@ -646,7 +646,7 @@ header.moved .header-body {
 }
 .header-switch {
   gap: 18px;
-  display: none;
+  /* display: none; */
 }
 
 .hero-section {
@@ -1334,6 +1334,7 @@ header.moved .header-body {
 .faq-column {
   gap: 10px;
   max-width: 575px;
+  width: 100%;
   height: max-content;
 }
 .often-asks-item {
